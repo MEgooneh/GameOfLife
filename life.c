@@ -51,6 +51,7 @@ int main(){
     while(1){
     draw() ;
     config() ;
+        //speed
     usleep(1000000) ;
 }
 }
