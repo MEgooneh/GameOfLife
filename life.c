@@ -5,6 +5,7 @@
 int w = 30 , h = 30 ;
 int world[30][30] ;
 void draw(){
+    //put your console command to clear the output
     for(int i = 0 ; i < 30 ; i++)
     printf( "\n");
     for(int i = 0 ; i < h ; i++){
